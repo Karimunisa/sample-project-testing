@@ -1,11 +1,8 @@
 Hii
 
-<<<<<<< HEAD
 Hello
 
 Conflicts
 Sample conflicts
 Hello
-=======
 Hello
->>>>>>> parent of f63b226 (Conflits for sub branch)
